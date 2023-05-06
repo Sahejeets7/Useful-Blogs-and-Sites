@@ -2,7 +2,7 @@
 List of useful sites and blogs that may come in handy based on current requirement
 
 
-## The following - 
+### The following - 
 
 1. how-to-geek = https://www.howtogeek.com/
 2. Exercism = https://exercism.org/
